@@ -1,0 +1,38 @@
+body{
+    background-color: #1B1F27;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    overflow: hidden;
+    text-align: center;
+    user-select: none;
+}
+
+p{
+    font-size: 17px;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+    width: 100%;
+}
+
+#sai{
+    background-color: #0e0e13;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+img{
+    width: 300px;
+    border-radius: 20px;
+}
+@media screen and (max-width: 76px8 ){
+    .container{
+        width:100%;
+        flex-direction: column;
+    }
+    }
