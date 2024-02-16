@@ -1,3 +1,8 @@
+    a{
+        text-decoration: none;
+        color: #5568FE;
+        font-weight: bold;
+    }   
 :root{
     --fonte-principal: 'Oxygen', sans-serif;
     --fonte-secundaria: 'Poppins', sans-serif;
@@ -122,10 +127,6 @@ body{
 
 
 
-    a{
-        text-decoration: none;
-        color: #5568FE;
-        font-weight: bold;
-    }    
+ 
     
     
